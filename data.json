@@ -209,7 +209,7 @@
     "XData Team":"Kitware, Inc.",
     "Software":"Tangelo",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
-    "External Link":"http://tangelo.kitware.com/",
+    "External Link":"http://kitware.github.io/tangelo/",
     "Public Code Repo":"https://github.com/Kitware/tangelo.git",
     "Stats":"tangelo",
     "Characteristics of the Software (what software does)":"In a nutshell, Tangelo is a flexible HTML5 web server architecture that cleanly separates your web applications (pure Javascript, HTML, and CSS) and web services (pure Python), bundled with some great tools to get you started.",
