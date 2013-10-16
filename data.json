@@ -192,8 +192,8 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"Kitware, Inc.",
-    "Software":"VEGA",
+    "XData Team":"Trifacta (Stanford, University of Washington, Kitware, Inc. Team)",
+    "Software":"Vega",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"https://github.com/trifacta/vega",
     "Stats":"vega",
@@ -201,20 +201,6 @@
     "Characteristics of the Software (what software does)":"Vega is a visualization grammar, a declarative format for creating and saving visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.",
     "Xdata Git Location":"tools\\visualizations\\kitware\\vega",
     "License":"http://opensource.org/licenses/BSD-3-Clause",
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"",
-    "Category":"Visualization"
-},
-  {
-    "XData Team":"Kitware, Inc.",
-    "Software":"Visualization Design Environment \"14 separate apps\"",
-    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
-    "External Link":"Pending",
-    "Public Code Repo":"Pending",
-    "Stats":"",
-    "Characteristics of the Software (what software does)":"Kitware's Visual Design Environment will enable rapid development of insightful big-data visualization applications with minimal programming.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\vde",
-    "License":"",
     "Language (Primary)":"Javascript",
     "Language (Secondary)":"",
     "Category":"Visualization"
