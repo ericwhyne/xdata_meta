@@ -192,8 +192,8 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"Kitware, Inc.",
-    "Software":"VEGA",
+    "XData Team":"Trifacta (Stanford, University of Washington, Kitware, Inc. Team)",
+    "Software":"Vega",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"https://github.com/trifacta/vega",
     "Stats":"vega",
@@ -207,23 +207,9 @@
 },
   {
     "XData Team":"Kitware, Inc.",
-    "Software":"Visualization Design Environment \"14 separate apps\"",
-    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
-    "External Link":"Pending",
-    "Public Code Repo":"Pending",
-    "Stats":"",
-    "Characteristics of the Software (what software does)":"Kitware's Visual Design Environment will enable rapid development of insightful big-data visualization applications with minimal programming.",
-    "Xdata Git Location":"tools\\visualizations\\kitware\\vde",
-    "License":"",
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"",
-    "Category":"Visualization"
-},
-  {
-    "XData Team":"Kitware, Inc.",
     "Software":"Tangelo",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
-    "External Link":"http://tangelo.kitware.com/",
+    "External Link":"http://kitware.github.io/tangelo/",
     "Public Code Repo":"https://github.com/Kitware/tangelo.git",
     "Stats":"tangelo",
     "Characteristics of the Software (what software does)":"In a nutshell, Tangelo is a flexible HTML5 web server architecture that cleanly separates your web applications (pure Javascript, HTML, and CSS) and web services (pure Python), bundled with some great tools to get you started.",
