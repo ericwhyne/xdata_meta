@@ -548,13 +548,13 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"The Charles Stark Draper Laboratory, Inc.",
-    "Software":"Activity Logger",
+    "XData Team":"Draper Laboratory",
+    "Software":"Analytic Activity Logger",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/draper@summerCamp2013",
-    "External Link":"N/A",
-    "Public Code Repo":"N/A",
+    "External Link":"Pending",
+    "Public Code Repo":"Pending",
     "Stats":"",
-    "Characteristics of the Software (what software does)":"Activity Logger is an API to model analyst's workflow and operational context; Instrument tools to monitor analytic activities; Estimate user's arousal, cognitive load, engagement, task performance",
+    "Characteristics of the Software (what software does)":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine.  Recording a user’s analytic activities enables estimation of operational context and workflow.  Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool."
     "Xdata Git Location":"tools\\utilities\\draper",
     "License":"",
     "Category":"Infrastructure"
