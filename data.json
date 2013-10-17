@@ -57,7 +57,7 @@
     "XData Team":"Continuum",
     "Software":"Bokeh",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-    "External Link":"https://github.com/ContinuumIO/Bokeh",
+    "External Link":"http://bokeh.pydata.org",
     "Public Code Repo":"https://github.com/ContinuumIO/Bokeh.git",
     "Stats":"Bokeh",
     "Characteristics of the Software (what software does)":"Bokeh (pronounced bo-Kay or bo-Kuh) is a Python interactive visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity over large data to thin clients.",
