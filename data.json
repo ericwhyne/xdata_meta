@@ -537,12 +537,12 @@
 },
   {
     "XData Team":"UC Davis",
-    "Software":"gpugraph",
+    "Software":"Gunrock",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
     "External Link":"Pending",
     "Public Code Repo":"Planned Release 2013-10-28",
     "Stats":"",
-    "Characteristics of the Software (what software does)":"Gpugraph is a CUDA library for graph primitives. This library is derived from the work by Duane Merrill on BFS traversal on GPUs and contains high performance CUDA implementations low level primitives for the best known algorithms for various graph primitives, including Breadth-First Search (contributed by Merrill), Connected Component, and Betweenness Centrality.",
+    "Characteristics of the Software (what software does)":"Gunrock is a CUDA library for graph primitives that refactors, integrates, and generalizes best-of-class GPU implementations of breadth-first search, connected components, and betweenness centrality into a unified code base useful for future development of high-performance GPU graph primitives.",
     "Xdata Git Location":"tools\\analytics\\SYSTAP",
     "License":"",
     "Category":"Analytics"
