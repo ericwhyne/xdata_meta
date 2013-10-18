@@ -524,18 +524,6 @@
     "Category":"Infrastructure"
 },
   {
-    "XData Team":"Stanford University - Kunle",
-    "Software":"SNAP",
-    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/Stanford+XGraph",
-    "External Link":"https://snap.stanford.edu/",
-    "Public Code Repo":"https://github.com/snap-stanford/snap",
-    "Stats":"snap",
-    "Characteristics of the Software (what software does)":"Stanford Network Analysis Platform (SNAP) is a general purpose network analysis and graph mining library. It is written in C++ and easily scales to massive networks with hundreds of millions of nodes, and billions of edges. It efficiently manipulates large graphs, calculates structural properties, generates regular and random graphs, and supports attributes on nodes and edges.",
-    "Xdata Git Location":"tools\\analytics\\stanford-o",
-    "License":"BSD",
-    "Category":"Infrastructure"
-},
-  {
     "XData Team":"SYSTAP, LLC",
     "Software":"bigdata",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
@@ -572,17 +560,15 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"Draper Laboratory",
-    "Software":"Analytic Activity Logger",
+    "XData Team":"The Charles Stark Draper Laboratory, Inc.",
+    "Software":"Activity Logger",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/draper@summerCamp2013",
-    "External Link":"Pending",
-    "Public Code Repo":"Pending",
+    "External Link":"N/A",
+    "Public Code Repo":"N/A",
     "Stats":"",
-    "Characteristics of the Software (what software does)":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine.  Recording a user’s analytic activities enables estimation of operational context and workflow.  Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool.",
+    "Characteristics of the Software (what software does)":"Activity Logger is an API to model analyst's workflow and operational context; Instrument tools to monitor analytic activities; Estimate user's arousal, cognitive load, engagement, task performance",
     "Xdata Git Location":"tools\\utilities\\draper",
-    "License":"ALv2",
-    "Language (Primary)":"Javascript",
-    "Language (Secondary)":"",
+    "License":"",
     "Category":"Infrastructure"
 },
   {
