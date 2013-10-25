@@ -172,7 +172,7 @@
     "Stats":"immersive_body-based_interactions",
     "Characteristics of the Software (what software does)":"* New interface devices and body based interaction techniques to address human-computer interaction challenges posed by Big Data_x000D_\n* Wiggle Interaction Technique: user induced motion to speed visual search.<br/><br/>* Immersive Tablet Based Viewers: low cost 3D virtual reality fly-through's of data sets.<br/><br/>* Multi-touch interfaces: browsing/querying multi-attribute and geospatial data, hosted by SOLR.<br/><br/>* Tablet based visualization controller: eye-free rapid interaction with visualizations.",
     "Xdata Git Location":"tools\\visualizations\\usc-ict",
-    "License":"",
+    "License":"ALv2",
     "Language (Primary)":"",
     "Language (Secondary)":"",
     "Category":"Visualization"
