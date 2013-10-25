@@ -285,12 +285,24 @@
 },
   {
     "XData Team":"Next Century Corporation",
-    "Software":"Neon Visualization Environment",
+    "Software":"Ozone Widget Framework",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Neon+-+Next+Century",
     "External Link":"http://owfgoss.org/download.html",
     "Public Code Repo":"https://github.com/ozoneplatform/owf.git",
     "Stats":"owf",
     "Characteristics of the Software (what software does)":"Ozone Widget Framework is a customizable open-source web application that assembles the tools you need to accomplish any task and enables those tools to communicate with each other. It is a technology-agnostic composition framework for data and visualizations in a common browser-based display and interaction environment that lowers the barrier to entry for the development of big data visualizations and enable efficient exploration of large data sets.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Visualization"
+},
+{
+    "XData Team":"Next Century Corporation",
+    "Software":"Neon Visualization Environment",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Neon+-+Next+Century",
+    "External Link":"Pending",
+    "Public Code Repo":"Pending",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"Neon is a framework gives a datastore agnostic way for visualizations to query data, and perform simple operations on that data such as filtering, aggregation, and transforms. It is divided into two parts, neon-server and neon-client. Neon-server provides a set of RESTful web services to select a datastore and perform queries and other operations on the data. Neon-client is a javascript API that provides a way to easily integrate neon-server capabilities into a visualization, and also aids in 'widgetizing' a visualization, allowing it to be integrated into a common OWF based ecosystem.",
     "Xdata Git Location":"tools\\visualizations\\next-century",
     "License":"ALv2",
     "Category":"Visualization"
