@@ -3,12 +3,12 @@
     "XData Team":"Boeing/Pitt",
     "Software":"  SMILE-WIDE:  A scalable Bayesian network library",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Boeing+-+Pitt",
-    "External Link":"Pending",
-    "Public Code Repo":"Pending",
+    "External Link":"http://robcranfill.github.io/SmileWide/",
+    "Public Code Repo":"https://github.com/RobCranfill/SmileWide.git",
     "Stats":"N/A",
     "Characteristics of the Software (what software does)":"SMILE-WIDE is a scalable Bayesian network library. Initially, it is a version of the SMILE library, as in SMILE With Integrated Distributed Execution. The general approach has been to provide an API similar to the existing API SMILE developers use to build \"local\", single-threaded applications. However, we provide \"vectorized\" operations that hide a Hadoop-distributed implementation. Apart from invoking a few idioms like generic Hadoop command line argument parsing, these appear to the developer as if they were executed locally.",
     "Xdata Git Location":"tools\\analytics\\boeing-pitt\\smile-wide-final-summercamp",
-    "License":"",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
