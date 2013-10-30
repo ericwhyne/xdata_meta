@@ -182,11 +182,11 @@
     "Software":"Embedding Methodology and  Statistics for Big Data",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Johns+Hopkins+University",
     "External Link":"http://www.cis.jhu.edu/~parky/XDATA/xfin-new.html",
-    "Public Code Repo":"N/A",
+    "Public Code Repo":"git://git.huit.harvard.edu/igraph/igraph.git",
     "Stats":"",
     "Characteristics of the Software (what software does)":"* Fast generation of large graphs<br/><br/>* Fast approximate computation of local graph invariants<br/><br/>* Fast parallelizable graph embedding<br/><br/>* API and Web-service for batch processing graphs across formats",
     "Xdata Git Location":"tools\\analytics\\jhu",
-    "License":"",
+    "License":"GPLv2",
     "Language (Primary)":"",
     "Language (Secondary)":"",
     "Category":"Analytics"
