@@ -364,7 +364,6 @@
     "Stats":"",
     "Characteristics of the Software (what software does)":"BayesDB is an open-source implementation of a predictive database table. It provides predictive extensions to SQL that enable users to query the implications of their data --- predict missing entries, identify predictive relationships between columns, and examine synthetic populations --- based on a Bayesian machine learning system in the backend. ",
     "Xdata Git Location":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
-    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -599,8 +598,8 @@
     "XData Team":"Draper Laboratory",
     "Software":"Analytic Activity Logger",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/draper@summerCamp2013",
-    "External Link":"Pending",
-    "Public Code Repo":"Pending",
+    "External Link":"https://github.com/draperlab/xdatalogger",
+    "Public Code Repo":"https://github.com/draperlab/xdatalogger.git",
     "Stats":"",
     "Characteristics of the Software (what software does)":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine.  Recording a user’s analytic activities enables estimation of operational context and workflow.  Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool.",
     "Xdata Git Location":"tools\\utilities\\draper",
