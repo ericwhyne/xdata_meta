@@ -359,12 +359,24 @@
     "XData Team":"Scientific Systems Company, Inc.",
     "Software":"BayesDB",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
-    "External Link":"Pending",
-    "Public Code Repo":"Pending",
+    "External Link":"http://probcomp.csail.mit.edu/bayesdb/",
+    "Public Code Repo":"https://github.com/mit-probabilistic-computing-project/BayesDB.git",
     "Stats":"",
     "Characteristics of the Software (what software does)":"BayesDB is an open-source implementation of a predictive database table. It provides predictive extensions to SQL that enable users to query the implications of their data --- predict missing entries, identify predictive relationships between columns, and examine synthetic populations --- based on a Bayesian machine learning system in the backend. ",
     "Xdata Git Location":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
-    "License":"",
+    "License":"ALv2",
+    "Category":"Analytics"
+},
+  {
+    "XData Team":"Scientific Systems Company, Inc.",
+    "Software":"Crosscat",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
+    "External Link":"http://probcomp.csail.mit.edu/crosscat/",
+    "Public Code Repo":"https://github.com/mit-probabilistic-computing-project/crosscat.git",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"CrossCat is a domain-general, Bayesian method for analyzing high-dimensional data tables. CrossCat estimates the full joint distribution over the variables in the table from the data, via approximate inference in a hierarchical, nonparametric Bayesian model, and provides efficient samplers for every conditional distribution. CrossCat combines strengths of nonparametric mixture modeling and Bayesian network structure learning: it can model any joint distribution given enough data by positing latent variables, but also discovers independencies between the observable variables.",
+    "Xdata Git Location":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
