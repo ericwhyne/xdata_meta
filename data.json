@@ -4,7 +4,6 @@
     "Software":"  SMILE-WIDE:  A scalable Bayesian network library",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Boeing+-+Pitt",
     "External Link":"http://smilewide.github.io/main/",
-    "Public Code Repo":"https://github.com/SmileWide/main.git",
     "Stats":"N/A",
     "Characteristics of the Software (what software does)":"SMILE-WIDE is a scalable Bayesian network library. Initially, it is a version of the SMILE library, as in SMILE With Integrated Distributed Execution. The general approach has been to provide an API similar to the existing API SMILE developers use to build \"local\", single-threaded applications. However, we provide \"vectorized\" operations that hide a Hadoop-distributed implementation. Apart from invoking a few idioms like generic Hadoop command line argument parsing, these appear to the developer as if they were executed locally.",
     "Xdata Git Location":"tools\\analytics\\boeing-pitt\\smile-wide-final-summercamp",
@@ -155,12 +154,12 @@
     "XData Team":"IBM Almaden Research Center",
     "Software":"SKYLARK: Randomized Numerical Linear Algebra and ML",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=2752591",
-    "External Link":"N/A",
-    "Public Code Repo":"Public Release Planned for 2014",
+    "External Link":"http://xdata-skylark.github.io/",
+    "Public Code Repo":"Public Release Planned for 15 May 2014",
     "Stats":"",
     "Characteristics of the Software (what software does)":"Matrix algorithms are the foundation for most methods in data analysis, scientic computing, and engineering applications, and Numerical Linear Algebra (NLA) kernels are the key enabling technology for implementing matrix algorithms on dierent hardware platforms. Without highly ecient and scalable NLA kernels, the challenge of big data cannot be met. In this project, provisionally called skylark, we propose to investigate and implement sketching-based NLA kernels for distributed computing platforms. Sketching reduces dimensionality through randomization, and is one of only a few paradigms that have the potential to deliver a true boost in performance in the presence of massive data, for an extensive class of applications.",
     "Xdata Git Location":"tools\\analytics\\ibm\\skylark",
-    "License":"http://www.eclipse.org/legal/epl-v10.html",
+    "License":"EPLv10",
     "Category":"Analytics"
 },
   {
