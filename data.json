@@ -313,7 +313,7 @@
     "External Link":"http://aperturejs.com/",
     "Public Code Repo":"Pending",
     "Stats":"",
-    "Characteristics of the Software (what software does)":"1. Zoomable Big Data Maps_x000D_\n2. Statistical Summaries_x000D_\n3. Financial Flow Analysis_x000D_\n4. Zoomable Big Data Plots",
+    "Characteristics of the Software (what software does)":"Aperture is a powerful, agile, and extensible visualization framework library project designed to produce tailored, best practice, scalable visualizations for analysts and decision makers in any common web browser. Aperture is an open source, standards based JavaScript library with supporting web services.",
     "Xdata Git Location":"tools\\visualizations\\oculus",
     "License":"MIT",
     "Category":"Visualization"
