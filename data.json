@@ -411,6 +411,7 @@
     "Stats":"",
     "Characteristics of the Software (what software does)":"BayesDB is an open-source implementation of a predictive database table. It provides predictive extensions to SQL that enable users to query the implications of their data --- predict missing entries, identify predictive relationships between columns, and examine synthetic populations --- based on a Bayesian machine learning system in the backend. ",
     "Xdata Git Location":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
