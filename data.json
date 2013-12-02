@@ -140,6 +140,7 @@
   {
     "XData Team":"Georgia Tech Research Corporation",
     "Software":"Fast Algorithms on Imperfect Heterogeneous Distributed Data",
+    "Software (Short)":"Fast Algorithms on Imperfect Data",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274597",
     "External Link":"http://www.cc.gatech.edu/~hpark/",
     "Public Code Repo":"Pending",
@@ -179,7 +180,8 @@
 },
   {
     "XData Team":"Johns Hopkins University",
-    "Software":"Embedding Methodology and  Statistics for Big Data",
+    "Software":"Embedding Methodology and Statistics for Big Data",
+    "Software (Short)":"Embedding and Statistics for Big Data",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Johns+Hopkins+University",
     "External Link":"http://www.cis.jhu.edu/~parky/XDATA/xfin-new.html",
     "Public Code Repo":"http://sourceforge.net/projects/igraph/files/",
@@ -369,6 +371,7 @@
   {
     "XData Team":"Raytheon BBN",
     "Software":"Content and Context-based Graph Analysis: PINT, Patterns in Near-Real Time",
+    "Software (Short)":"Graph Analysis: PINT, Patterns in Near-Real Time",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
     "External Link":"https://github.com/plamenbbn/XDATA",
     "Public Code Repo":"https://github.com/plamenbbn/XDATA.git",
@@ -381,6 +384,7 @@
   {
     "XData Team":"Raytheon BBN",
     "Software":"Content and Context-based Graph Analysis: NILS, Network Inference of LinkStrength",
+    "Software (Short)":"Graph Analysis: NILS, Network Inference of LinkStrength",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
     "External Link":"https://github.com/plamenbbn/XDATA",
     "Public Code Repo":"https://github.com/plamenbbn/XDATA.git",
@@ -393,6 +397,7 @@
   {
     "XData Team":"Royal Caliber",
     "Software":"GPU based Graphlab style Gather-Apply-Scatter (GAS) platform for quickly implementing and running graph algorithms",
+    "Software (Short)":"GAS Platform for Quickly Running Graph Algorithms",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Royal+Caliber+LLC%2C+VertexAPI+for+GPU+Graph+Analytics",
     "External Link":"https://github.com/RoyalCaliber/vertexAPI2",
     "Public Code Repo":"https://github.com/RoyalCaliber/vertexAPI2.git",
