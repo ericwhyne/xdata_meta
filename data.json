@@ -26,7 +26,7 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"Continuum",
+    "XData Team":"Continuum Analytics",
     "Software":"Blaze",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/ContinuumIO/blaze",
@@ -40,7 +40,7 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"Continuum",
+    "XData Team":"Continuum Analytics",
     "Software":"Numba",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/numba/numba",
@@ -54,7 +54,7 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"Continuum",
+    "XData Team":"Continuum Analytics",
     "Software":"Bokeh",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"http://bokeh.pydata.org",
@@ -68,7 +68,7 @@
     "Category":"Visualization"
 },
   {
-    "XData Team":"Continuum and Indiana University",
+    "XData Team":"Continuum Analytics and Indiana University",
     "Software":"Abstract Rendering",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"http://www.github.com/JosephCottam/AbstractRendering",
@@ -82,7 +82,7 @@
     "Category":"Visualization"
 },
   {
-    "XData Team":"Continuum",
+    "XData Team":"Continuum Analytics",
     "Software":"CDX",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/ContinuumIO/cdx",
@@ -96,7 +96,7 @@
     "Category":"Visualization"
 },
   {
-    "XData Team":"Continuum and Indiana University",
+    "XData Team":"Continuum Analytics and Indiana University",
     "Software":"Stencil",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
     "External Link":"https://github.com/JosephCottam/Stencil",
@@ -206,7 +206,7 @@
     "Category":"Visualization"
 },
   {
-    "XData Team":"Kitware",
+    "XData Team":"Kitware, Inc.",
     "Software":"Tangelo",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
     "External Link":"http://kitware.github.io/tangelo/",
