@@ -540,6 +540,18 @@
     "Category":"Analytics"
 },
   {
+    "XData Team":"Stanford University - Boyd",
+    "Software":"SCS (Self-dual Cone Solver)",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
+    "External Link":"https://github.com/cvxgrp/scs",
+    "Public Code Repo":"https://github.com/cvxgrp/scs.git",
+    "Stats":"scs",
+    "Characteristics of the Software (what software does)":"",
+    "Xdata Git Location":"",
+    "License":"unmarked",
+    "Category":"Analytics"
+},
+  {
     "XData Team":"Stanford University - Hanrahan",
     "Software":"datadr",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
