@@ -52,52 +52,62 @@
         "Title": "Abstract Rendering: Out-of-core Rendering for Information Visualization"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "https://smartech.gatech.edu/bitstream/handle/1853/49249/GT-CSE-2013-05.pdf?sequence=1", 
         "Title": "To Gather Together for a Better World: Understanding and Leveraging Communities in Micro-lending Recommendation"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
-        "Link": "https://smartech.gatech.edu/bitstream/handle/1853/49182/GT-CSE-2013-03.pdf?sequence=1", 
+        "XData Teams": ["Georgia Tech / GTRI"], 
+        "Link": "https://smartech.gatech.edu/bitstream/handle/1853/49182/GT-CSE-2013-03.pdf", 
         "Title": "A Better World for All:  Understanding and Promoting Micro-finance Activities in Kiva.org"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6634167 ", 
-        "Title": "UPTOPIAN:  User-Driven Topic Modeling Based on Interactive Nonegative Matrix Factorization"
+        "Title": "UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
+        "Link": "http://www.cc.gatech.edu/~zha/papers/km0600s-li-1.pdf", 
+        "Title": "Dyadic Event Attribution in Social Networks with Mixtures of Hawkes Processes"
+    }, 
+    {
+        "XData Teams": ["Georgia Tech / GTRI"], 
+        "Link": "http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion-networks", 
+        "Title": "Scalable Influence Estimation in Continuous-Time Diffusion Networks"
+    }, 
+    {
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://jmlr.org/proceedings/papers/v31/du13a.pdf", 
         "Title": "Uncover Topic-Sensitive Information Diffusion Networks"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://arxiv.org/abs/1310.7441 ", 
         "Title": "Hierarchical Clustering of Hyperspectral Images using Rank-Two Nonnegative Matrix Factorization"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://dl.acm.org/citation.cfm?id=2487575.2487606; http://www.cc.gatech.edu/grads/d/dkuang3/pub/fp0269-kuang.pdf", 
         "Title": "Fast rank-2 nonnegative matrix factorization for hierarchical document clustering"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://poloclub.gatech.edu/idea2013/papers/p64-lee.pdf ", 
         "Title": "Augmenting MATLAB with Semantic Objects for an Interactive Visual Environment"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://machinelearning.wustl.edu/mlpapers/paper_files/yang13a.pdf", 
         "Title": "Mixture of Mutually Exciting Processes for Viral Diffusion"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://jmlr.org/proceedings/papers/v31/zhou13a.pdf", 
         "Title": "Learning Social Infectivity in Sparse Low-rank Networks Using Multi-dimensional Hawkes Processes"
     }, 
     {
-        "XData Teams": ["Georgia Tech Research Corporation"], 
+        "XData Teams": ["Georgia Tech / GTRI"], 
         "Link": "http://jmlr.org/proceedings/papers/v28/zhou13.pdf", 
         "Title": "Learning Triggering Kernels for Multi-dimensional Hawkes Processes"
     }, 
@@ -207,6 +217,36 @@
         "Title": "On the Incommensurability Phenomenon"
     }, 
     {
+        "XData Teams": ["Johns Hopkins University"], 
+        "Link": "http://arxiv.org/abs/1312.2638", 
+        "Title": "Vertex Nomination Schemes for Membership Prediction"
+    }, 
+    {
+        "XData Teams": ["Johns Hopkins University"], 
+        "Link": "http://arxiv.org/abs/1311.5954", 
+        "Title": "Robust Vertex Classification"
+    }, 
+    {
+        "XData Teams": ["Johns Hopkins University"], 
+        "Link": "http://arxiv.org/abs/1207.6745", 
+        "Title": "Consistent Latent Position Estimation and Vertex Classification for Random Dot Product Graphs"
+    }, 
+    {
+        "XData Teams": ["Johns Hopkins University"], 
+        "Link": "http://arxiv.org/abs/1305.7388", 
+        "Title": "A limit theorem for scaled eigenvectors of random dot product graphs"
+    }, 
+    {
+        "XData Teams": ["Johns Hopkins University"], 
+        "Link": "http://arxiv.org/abs/1211.3601", 
+        "Title": "Statistical inference on errorfully observed graphs"
+    }, 
+    {
+        "XData Teams": ["Johns Hopkins University"], 
+        "Link": "http://arxiv.org/abs/1209.0367", 
+        "Title": "Seeded Graph Matching"
+    }, 
+    {
         "XData Teams": ["Kitware, Inc."], 
         "Link": "http://people.seas.harvard.edu/~alex/papers/2013_infovis_entourage.pdf", 
         "Title": "Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets"
@@ -283,7 +323,7 @@
         "Title": "Louvain Clustering for Big Data Graph Visual Analytics"
     }, 
     {
-        "XData Teams": ["Scientific Systems Company, Inc."], 
+        "XData Teams": ["Scientific Systems Company, Inc., MIT, and University of Lousville"], 
         "Link": "No link; soft copy only", 
         "Title": "Advanced Machine Learning and Statistical Inference Approaches for Big Data Analytics and Information Fusion"
     }, 
@@ -299,12 +339,12 @@
     }, 
     {
         "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
-        "Link": "http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf ", 
+        "Link": "http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf", 
         "Title": "Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data"
     }, 
     {
         "XData Teams":["Stanford University - Boyd","Purdue","PNNL"], 
-        "Link": "http://ml.stat.purdue.edu/gaby/MLandEDAforBigData.pdf ", 
+        "Link": "http://ml.stat.purdue.edu/gaby/MLandEDAforBigData.pdf", 
         "Title": "EDA and ML - A Perfect Pair for Large-Scale Data Analysis"
     }, 
     {
@@ -314,14 +354,40 @@
     }, 
     {
         "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
-        "Link": "http://ml.stat.purdue.edu/gaby/imMensEuroVis.2013.pdf ", 
+        "Link": "http://ml.stat.purdue.edu/gaby/imMensEuroVis.2013.pdf", 
         "Title": "imMens: Real-time Visual Querying of Big Data"
     }, 
     {
+        "XData Teams": ["Stanford University - Boyd"], 
+        "Link": "http://www.stanford.edu/~boyd/papers/prox_algs.html", 
+        "Title": "Proximal Algorithms"
+    }, 
+    {
+        "XData Teams": ["Stanford University - Boyd"], 
+        "Link": "http://www.stanford.edu/~boyd/papers/pdos.html", 
+        "Title": "A Primal-Dual Operator Splitting Method for Conic Optimization"
+    }, 
+    {
+        "XData Teams": ["Stanford University - Boyd"], 
+        "Link": "http://www.stanford.edu/~boyd/papers/scs.html", 
+        "Title": "Operator Splitting for Conic Optimization via Homogeneous Self-Dual Embedding"
+    },
+    {
+        "XData Teams": ["Stanford University - Boyd"], 
+        "Link": "http://www.stanford.edu/~boyd/papers/ecos.html", 
+        "Title": "ECOS: An SOCP Solver for Embedded Systems"
+    },
+   {
+        "XData Teams": ["Stanford University - Boyd"], 
+        "Link": "http://www.stanford.edu/~boyd/papers/ecos_codegen_ecc.html", 
+        "Title": "Code Generation for Embedded Second-Order Cone Programming"
+    },
+    {
         "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
-        "Link": "http://ml.stat.purdue.edu/gaby/trelliscope.ldav.2013.pdf ", 
+        "Link": "http://ml.stat.purdue.edu/gaby/trelliscope.ldav.2013.pdf", 
         "Title": "Trelliscope: A System for Detailed Visualization in the Deep Analysis of Large Complex Data"
     }, 
+
     {
         "XData Teams": ["Stanford  "], 
         "Link": "http://www.stanford.edu/~shhuang/papers/nifty_www2013.pdf", 
