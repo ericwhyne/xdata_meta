@@ -1,7 +1,19 @@
 [
   {
+    "XData Team":"Aptima Inc.",
+    "Software":"Network Query by Example",
+    "Internal Link":"",
+    "External Link":"https://github.com/Aptima/pattern-matching",
+    "Public Code Repo":"https://github.com/Aptima/pattern-matching.git",
+    "Stats":"pattern-matching",
+    "Characteristics of the Software (what software does)":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Analytics"
+},
+  {
     "XData Team":"Boeing/Pitt",
-    "Software":"  SMILE-WIDE:  A scalable Bayesian network library",
+    "Software":"SMILE-WIDE:  A scalable Bayesian network library",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Boeing+-+Pitt",
     "External Link":"http://smilewide.github.io/main/",
     "Public Code Repo":"https://github.com/SmileWide/main.git",
