@@ -153,13 +153,13 @@
     "Category":"Analytics"
 },
   {
-    "XData Team":"IBM Almaden Research Center",
+    "XData Team":"IBM Research",
     "Software":"SKYLARK: Randomized Numerical Linear Algebra and ML",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=2752591",
     "External Link":"http://xdata-skylark.github.io/",
     "Public Code Repo":"Public Release Planned for 15 May 2014",
     "Stats":"",
-    "Characteristics of the Software (what software does)":"Matrix algorithms are the foundation for most methods in data analysis, scientic computing, and engineering applications, and Numerical Linear Algebra (NLA) kernels are the key enabling technology for implementing matrix algorithms on dierent hardware platforms. Without highly ecient and scalable NLA kernels, the challenge of big data cannot be met. In this project, provisionally called skylark, we propose to investigate and implement sketching-based NLA kernels for distributed computing platforms. Sketching reduces dimensionality through randomization, and is one of only a few paradigms that have the potential to deliver a true boost in performance in the presence of massive data, for an extensive class of applications.",
+    "Characteristics of the Software (what software does)":"Matrix algorithms are the foundation for most methods in data analysis, scientific computing, and engineering applications, and Numerical Linear Algebra (NLA) kernels are the key enabling technology for implementing matrix algorithms on different hardware platforms. We investigate and implement NLA kernels based on sketching for distributed computing platforms. Sketching reduces dimensionality through randomization, and includes Johnson-Lindenstrauss random projection (JL); a faster version of JL based on fast transform techniques; sparse techniques that can be applied in time proportional to the number of nonzero matrix entries; and methods for approximating kernel functions and Gram matrices arising in nonlinear statistical modeling problems. We have a library of such sketching techniques, built using MPI in C++ and callable from Python, and are applying the library to regression, low-rank approximation,   and kernel-based machine learning tasks, among other problems. ",
     "Xdata Git Location":"tools\\analytics\\ibm\\skylark",
     "License":"EPLv10",
     "Category":"Analytics"
@@ -183,9 +183,9 @@
     "Software":"igraph",
     "Software (Short)":"igraph",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Johns+Hopkins+University",
-    "External Link":"http://www.cis.jhu.edu/~parky/XDATA/",
-    "Public Code Repo":"http://sourceforge.net/projects/igraph/files/",
-    "Stats":"",
+    "External Link":"https://github.com/igraph/igraph",
+    "Public Code Repo":"https://github.com/igraph/igraph.git",
+    "Stats":"igraph",
     "Characteristics of the Software (what software does)":"Fast generation of large graphs. Fast approximate computation of local graph invariants. Fast parallelizable graph embedding. API and Web-service for batch processing graphs across formats.",
     "Xdata Git Location":"tools\\analytics\\jhu",
     "License":"GPLv2",
@@ -222,6 +222,42 @@
     "Category":"Visualization"
 },
   {
+    "XData Team":"Harvard and Kitware, Inc.",
+    "Software":"LineUp",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+    "External Link":"http://sgratzl.github.io/paper-2013-lineup/",
+    "Public Code Repo":"https://github.com/Caleydo/org.caleydo.vis.lineup.demos.git",
+    "Stats":"org.caleydo.vis.lineup.demos",
+    "Characteristics of the Software (what software does)":"LineUp is a novel and scalable visualization technique that uses bar charts. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination. This process can be employed to derive actionable insights as to which attributes of an item need to be modified in order for its rank to change. Additionally, through integration of slope graphs, LineUp can also be used to compare multiple alternative rankings on the same set of items, for example, over time or across different attribute combinations. We evaluate the effectiveness of the proposed multi-attribute visualization technique in a qualitative study. The study shows that users are able to successfully solve complex ranking tasks in a short period of time.",
+    "Xdata Git Location":"tools\\visualizations\\kitware\\xdata-apps",
+    "License":"BSD",
+    "Category":"Visualization"
+},
+  {
+    "XData Team":"Harvard and Kitware, Inc.",
+    "Software":"LineUp Web",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+    "External Link":"http://sgratzl.github.io/paper-2013-lineup/",
+    "Public Code Repo":"2014-06",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"The LineUp application ported to the web.",
+    "Xdata Git Location":"tools\\visualizations\\kitware\\xdata-apps",
+    "License":"BSD",
+    "Category":"Visualization"
+},
+  {
+    "XData Team":"Harvard and Kitware, Inc.",
+    "Software":"Lyra",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+    "External Link":"Pending",
+    "Public Code Repo":"2014-02",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"Lyra is an interactive environment that makes custom visualization design accessible to a broader audience. With Lyra, designers map data to the properties of graphical marks to author expressive visualization designs without writing code. Marks can be moved, rotated and resized using handles; relatively positioned using connectors; and parameterized by data ﬁelds using property drop zones. Lyra also provides a data pipeline interface for iterative, visual speciﬁcation of data transformations and layout algorithms. Visualizations created with Lyra are represented as speciﬁcations in Vega, a declarative visualization grammar that enables sharing and reuse.",
+    "Xdata Git Location":"tools\\visualizations\\kitware\\xdata-apps",
+    "License":"BSD",
+    "Category":"Visualization"
+},
+  {
     "XData Team":"MDA Information Systems, Inc.",
     "Software":"OODT",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
@@ -254,11 +290,11 @@
     "Software":"Query By Example (Graph QuBE)",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"http://www.ll.mit.edu/mission/cybersec/HLT/HLT.html",
-    "Public Code Repo":"Pending",
+    "Public Code Repo":"2014-02-15",
     "Stats":"",
     "Characteristics of the Software (what software does)":"Query-by-Example (Graph QuBE) on dynamic transaction graphs.",
     "Xdata Git Location":"tools\\analytics\\mit-LL\\graph-qube",
-    "License":"",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -269,20 +305,44 @@
     "Public Code Repo":"https://github.com/JuliaLang/julia.git",
     "Stats":"julia",
     "Characteristics of the Software (what software does)":"Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.",
-    "Xdata Git Location":"tools\\analytics\\mit-LL\\graph-qube",
-    "License":"",
+    "Xdata Git Location":"tools\\analytics\\mit-LL",
+    "License":"MIT,GPL,LGPL,BSD",
     "Category":"Analytics"
 },
   {
     "XData Team":"MIT-LL",
-    "Software":"tpoic",
+    "Software":"Topic",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
     "External Link":"http://www.ll.mit.edu/mission/cybersec/HLT/HLT.html",
     "Public Code Repo":"Pending",
     "Stats":"",
-    "Characteristics of the Software (what software does)":"Feature-conditioned topic co-clustering for integrating content and context features",
+    "Characteristics of the Software (what software does)":"Probabilistic Latent Semantic Analysis (pLSA) Topic Modeling.",
+    "Xdata Git Location":"tools\\analytics\\mit-LL",
+    "License":"ALv2",
+    "Category":"Analytics"
+},
+  {
+    "XData Team":"MIT-LL",
+    "Software":"SciDB",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+    "External Link":"http://scidb.org",
+    "Public Code Repo":"https://github.com/wujiang/SciDB-mirror.git",
+    "Stats":"SciDB-mirror",
+    "Characteristics of the Software (what software does)":"Scientific Databse for large-scale numerical data",
+    "Xdata Git Location":"tools\\analytics\\mit-LL",
+    "License":"GPLv3",
+    "Category":"Infrastructure"
+},
+  {
+    "XData Team":"MIT-LL",
+    "Software":"Information Extractor",
+    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
+    "External Link":"http://www.ll.mit.edu/mission/cybersec/HLT/HLT.html",
+    "Public Code Repo":"Pending",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"Trainable named entity extractor (NER) and relation extractor.",
     "Xdata Git Location":"tools\\analytics\\mit-LL\\tpoic",
-    "License":"",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -575,17 +635,18 @@
     "License":"unmarked",
     "Category":"Analytics"
 },
+
   {
     "XData Team":"Stanford University - Hanrahan",
-    "Software":"datadr",
+    "Software":"imMens",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-    "External Link":"http://hafen.github.io/datadr/",
-    "Public Code Repo":"https://github.com/hafen/datadr.git",
-    "Stats":"datadr",
-    "Characteristics of the Software (what software does)":"Complex big data are ubiquitous today. They challenge current numeric statistical and machine learning methods, visualization methods, statistical models, computational methods, and computational environments. D&R is being developed to meet these many challenges. In a D&R analysis, the data are divided into subsets in one more ways, forming multiple divisions. Numeric and visualization methods are applied to each of the subsets of a division, and the results of each method are recombined across subsets.",
+    "External Link":"http://vis.stanford.edu/projects/immens/",
+    "Public Code Repo":"https://github.com/StanfordHCI/imMens.git",
+    "Stats":"imMens",
+    "Characteristics of the Software (what software does)":"imMens is a web-based system for interactive visualization of large databases. imMens uses binned aggregation to produce summary visualizations that avoid the shortcomings of standard sampling-based approaches. Through data decomposition methods (to limit data transfer) and GPU computation via WebGL (for parallel query processing), imMens enables real-time (50fps) visual querying of billion+ element databases.",
     "Xdata Git Location":"tools\\analytics\\stanford-h",
-    "License":"BSD Derivative",
-    "Category":"Analytics"
+    "License":"BSD",
+    "Category":"Visualization"
 },
   {
     "XData Team":"Stanford University - Hanrahan",
@@ -594,21 +655,21 @@
     "External Link":"http://hafen.github.io/trelliscope/",
     "Public Code Repo":"https://github.com/hafen/trelliscope.git",
     "Stats":"trelliscope",
-    "Characteristics of the Software (what software does)":"Trelliscope provides a way to visualize large, complex data in great detail from within the R statistical programming environment. This package operates on data that has been split into subsets using the datadr package. Data can be local R data.frames or can be very massive RHIPE datasets. This is a research effort that is evolving, and this document communicates the current state.<br/><br/>Trelliscope is based on the concept of Divide and Recombine (D&R). Some philosophy and background on D&R can be found at datadr.org.",
+    "Characteristics of the Software (what software does)":"Trellis Display, developed in the 90s, also divides the data. A visualization method is applied to each subset and shown on one panel of a multi-panel trellis display.  This framework is a very powerful mechanism for all data, large and small.  Trelliscope, a layer that uses datadr, extends Trellis to large complex data.  An interactive viewer is available for viewing subsets of very large displays, and the software provides the capability to sample subsets of panels from rigorous sampling plans.  Sampling is often necessary because in most applications, there are too many subsets to look at them all.",
     "Xdata Git Location":"tools\\analytics\\stanford-h",
-    "License":"BSD Derivative",
+    "License":"BSD",
     "Category":"Visualization"
 },
   {
     "XData Team":"Stanford University - Hanrahan",
-    "Software":"RHIPE",
+    "Software":"RHIPE: R and Hadoop Integrated Programming Environment",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-    "External Link":"http://www.datadr.org/getpack.html",
+    "External Link":"http://www.datadr.org/",
     "Public Code Repo":"https://github.com/saptarshiguha/RHIPE.git",
     "Stats":"RHIPE",
-    "Characteristics of the Software (what software does)":"RHIPE (hree-pay') is the R and Hadoop Integrated Programming Environment. It means \"in a moment\" in Greek. RHIPE is a merger of R and Hadoop. R is the widely used, highly acclaimed interactive language and environment for data analysis. Hadoop consists of the Hadoop Distributed File System (HDFS) and the MapReduce distributed compute engine. RHIPE allows an analyst to carry out D&R analysis of complex big data wholly from within R. RHIPE communicates with Hadoop to carry out the big, parallel computations.",
+    "Characteristics of the Software (what software does)":"In Divide and Recombine (D&R), big data are divided into subsets in one or more ways, forming divisions. Analytic methods, numeric-categorical methods of machine learning and statistics plus visualization methods, are applied to each of the subsets of a division. Then the subset outputs for each method are recombined.  D&R methods of division and recombination seek to make the statistical accuracy of recombinations as large as possible, ideally close to that of the hypothetical direct, all-data application of the methods. The D&R computational environment starts with RHIPE, a merger of R and Hadoop. RHIPE allows an analyst to carry out D&R analysis of big data wholly from within R, and use any of the 1000s methods available in R. RHIPE communicates with Hadoop to carry out the big, parallel computations.",
     "Xdata Git Location":"tools\\analytics\\stanford-h",
-    "License":"unmarked",
+    "License":"ALv2",
     "Category":"Infrastructure"
 },
   {
@@ -618,10 +679,9 @@
     "External Link":"https://github.com/jtalbot/riposte",
     "Public Code Repo":"https://github.com/jtalbot/riposte.git",
     "Stats":"riposte",
-    "Characteristics of the Software (what software does)":"Riposte, a fast interpreter and JIT for R.",
-    "Xdata Git Location":"tools\\analytics\\stanford-h",
-    "License":"BSD-2",
-    "Category":"Infrastructure"
+    "Characteristics of the Software (what software does)":"Riposte is a fast interpreter and JIT for R. The Riposte VM has 2 cooperative subVMs for R scripting (like Java) and for R vector computation (like APL). Our scripting code has been 2-4x faster in Riposte than in R's recent bytecode interpreter. Vector-heavy code is 5-10x faster.  Speeding up R can greatly increases the analyst's efficiency.",
+    "License":"BSD",
+    "Category":"Analytics"
 },
   {
     "XData Team":"Stanford University - Kunle",

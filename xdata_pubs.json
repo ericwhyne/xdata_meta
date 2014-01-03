@@ -43,12 +43,12 @@
     }, 
     {
         "XData Teams": ["Continuum Analytics and Indiana University"], 
-        "Link": "http://vis.ucdavis.edu/Workshops/BigDataVis2013/", 
+        "Link": "http://www.crest.iu.edu/publications/prints/2013/Cottam2013AR.pdf", 
         "Title": "Overplotting: Unified solutions under Abstract Rendering"
     }, 
     {
         "XData Teams": ["Continuum Analytics and Indiana University"], 
-        "Link": "http://vda-conference.org/index.html", 
+        "Link": "To appear in SPIE: Visualization and Data Analysis (VDA) 2014", 
         "Title": "Abstract Rendering: Out-of-core Rendering for Information Visualization"
     }, 
     {
@@ -112,67 +112,67 @@
         "Title": "Learning Triggering Kernels for Multi-dimensional Hawkes Processes"
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1211.6085", 
         "Title": "Random Projections for Support Vector Machines "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1209.2185", 
         "Title": "Efficient Dimensionality Reduction for Canonical Correlation Analysis "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1204.0062", 
         "Title": "Improved matrix algorithms via the Subsampled Randomized Hadamard Transform "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1202.3505", 
         "Title": "Near-optimal Coresets For Least-Squares Regression "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1109.5664", 
         "Title": "Deterministic Feature Selection for K-means Clustering "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1207.6365", 
         "Title": "Low-rank Approximation and Regression in Input Sparsity Time "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1304.6475v2.pdf", 
         "Title": "Subspace Embeddings and L_p-Regression Using Exponential Random Variables "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1304.6475v2.pdf", 
         "Title": "Revisiting Asynchronous Linear Solvers: Provable Convergence Rate Through Randomization "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "No link; soft copy only", 
         "Title": "Highly Scalable Linear Time Estimation of Spectrograms - A Tool for Very Large Scale Data Analysis "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1103.0995v3", 
         "Title": "Near-Optimal Column-Based Matrix Reconstruction "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1201.0127v4.pdf", 
         "Title": "Faster Subset Selection for Matrices and Applications  "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "No link; soft copy only", 
         "Title": "Sketching Structured Matrices for Faster Nonlinear Regression Haim Avron "
     }, 
     {
-        "XData Teams": ["IBM Almaden Research Center"], 
+        "XData Teams": ["IBM Research"], 
         "Link": "http://arxiv.org/pdf/1305.0087", 
         "Title": "Quantile Regression for Large-scale Applications "
     }, 
@@ -289,12 +289,12 @@
     }, 
     {
         "XData Teams": ["MIT-LL"], 
-        "Link": "No link; soft copy only", 
+        "Link": "http://snap.stanford.edu/networks2013/papers/netnips2013_submission_3.pdf", 
         "Title": "Content + Context Networks for User Classification in Twitter"
     }, 
     {
         "XData Teams": ["MIT-LL"], 
-        "Link": "No link; soft copy only", 
+        "Link": "http://www.ll.mit.edu/mission/cybersec/publications/HLTpublications.html", 
         "Title": "Combining Content, Network and Profile Features for User Classification in Twitter"
     }, 
     {
