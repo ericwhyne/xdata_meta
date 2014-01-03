@@ -247,12 +247,17 @@
         "Title": "Seeded Graph Matching"
     }, 
     {
-        "XData Teams": ["Kitware, Inc."], 
+        "XData Teams": ["Harvard"], 
+        "Link": "http://www.people.fas.harvard.edu/~airoldi/pub/journals/j024.AzariAiroldi2012JMLRWCP.pdf", 
+        "Title": "Graphlet decomposition of a weighted network"
+    }, 
+    {
+        "XData Teams": ["Harvard and Kitware, Inc."], 
         "Link": "http://people.seas.harvard.edu/~alex/papers/2013_infovis_entourage.pdf", 
         "Title": "Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets"
     }, 
     {
-        "XData Teams": ["Kitware, Inc."], 
+        "XData Teams": ["Harvard and Kitware, Inc."], 
         "Link": "http://people.seas.harvard.edu/~alex/papers/2013_infovis_lineup.pdf", 
         "Title": "LineUp: Visual Analysis of Multi-Attribute Rankings "
     }, 

@@ -258,6 +258,66 @@
     "Category":"Visualization"
 },
   {
+    "XData Team":"Phronesis",
+    "Software":"stat_agg",
+    "Internal Link":"",
+    "External Link":"https://github.com/kaneplusplus/stat_agg",
+    "Public Code Repo":"https://github.com/kaneplusplus/stat_agg.git",
+    "Stats":"stat_agg",
+    "Characteristics of the Software (what software does)":"stat_agg is a python package that provides statistical aggregators that maximize ensemble prediction accuracy by weighting individual learners in an optimal way. When used with the laputa package, learners may be distributed across a cluster of machines. The package also provides fault-tolerance when one or more learners becomes unavailable.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Analytics"
+},
+  {
+    "XData Team":"Phronesis",
+    "Software":"flexmem",
+    "Internal Link":"",
+    "External Link":"https://github.com/kaneplusplus/flexmem",
+    "Public Code Repo":"https://github.com/kaneplusplus/flexmem.git",
+    "Stats":"flexmem",
+    "Characteristics of the Software (what software does)":"Flexmem is a general, transparent tool for out-of-core (OOC) computing in the R programming environment. It is launched as a command line utility, taking an application as an argument. All memory allocations larger than a specified threshold are memory-mapped to a binary file. When data are not needed, they are stored on disk. It is both process- and thread-safe.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Infrastructure"
+},
+  {
+    "XData Team":"Phronesis",
+    "Software":"laputa",
+    "Internal Link":"",
+    "External Link":"https://github.com/kaneplusplus/laputa",
+    "Public Code Repo":"https://github.com/kaneplusplus/laputa.git",
+    "Stats":"laputa",
+    "Characteristics of the Software (what software does)":"Laputa is a python package that provides an elastic, parallel computing foundation for the stat_agg (statistical aggregates) package.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Infrastructure"
+},
+  {
+    "XData Team":"Phronesis",
+    "Software":"bigmemory",
+    "Internal Link":"",
+    "External Link":"http://bigmemory.org/",
+    "Public Code Repo":"http://cran.r-project.org/web/packages/bigmemory/index.html",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"Bigemory is an R package to create, store, access, and manipulate massive matrices. Matrices are allocated to shared memory and may use memory-mapped files. Packages biganalytics, bigtabulate, synchronicity, and bigalgebra provide advanced functionality.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Infrastructure"
+},
+  {
+    "XData Team":"Phronesis",
+    "Software":"bigalgebra",
+    "Internal Link":"",
+    "External Link":"http://bigmemory.org/",
+    "Public Code Repo":"https://r-forge.r-project.org/scm/viewvc.php/?root=bigmemory",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"Bigalgebra is an R package that provides arithmetic functions for R matrix and big.matrix objects.",
+    "Xdata Git Location":"",
+    "License":"ALv2",
+    "Category":"Infrastructure"
+},
+  {
     "XData Team":"MDA Information Systems, Inc.",
     "Software":"OODT",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
