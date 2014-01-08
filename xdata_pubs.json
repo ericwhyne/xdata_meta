@@ -452,5 +452,93 @@
         "XData Teams": ["The New School"], 
         "Link": "https://www.dropbox.com/sh/ea6ya5cpnxreuak/V5fag28-jZ/XDATA_GUI_Design_Volume_I_Parsons.pdf ", 
         "Title": "Design and Visualization Best Practices for Big Data:  Enhancing Data Discovery through Improved Usability"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/carat-sensys/", 
+        "Title": "Carat: Collaborative Energy Diagnosis for Mobile Devices"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "http://dl.acm.org/citation.cfm?doid=2517349.2522737", 
+        "Title": "Discretized Streams: Fault-Tolerant Streaming Computation at Scale"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/sparrow-distributed-low-latency-scheduling/", 
+        "Title": "Sparrow: Distributed, Low Latency Scheduling"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/a-general-bootstrap-performance-diagnostic/", 
+        "Title": "A General Bootstrap Performance Diagnostic"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/mli-an-api-for-distributed-machine-learning/", 
+        "Title": "MLI: An API for Distributed Machine Learning"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/leveraging-endpoint-flexibility-in-data-intensive-clusters/", 
+        "Title": "Leveraging Endpoint Flexibility in Data-Intensive Clusters"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/shark-sql-and-rich-analytics-at-scale/", 
+        "Title": "Shark: SQL and Rich Analytics at Scale"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/graphx-grades/", 
+        "Title": "GraphX: A Resilient Distributed Graph System on Spark"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/rtp-robust-tenant-placement-for-elastic-in-memory-database-clusters/", 
+        "Title": "RTP: Robust Tenant Placement for Elastic In-Memory Database Clusters"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/bolt-on-causal-consistency/", 
+        "Title": "Bolt-on Causal Consistency"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/blinkdb-queries-with-bounded-errors-and-bounded-response-times-on-very-large-data/", 
+        "Title": "BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/mdcc-multi-data-center-consistency/", 
+        "Title": "MDCC: Multi-Data Center Consistency"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/the-case-for-tiny-tasks-in-compute-clusters/", 
+        "Title": "The Case for Tiny Tasks in Compute Clusters"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/presto-distributed-machine-learning-and-graph-processing-with-sparse-matrices/", 
+        "Title": "Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/mlbase-a-distributed-machine-learning-system/", 
+        "Title": "MLbase: A Distributed Machine-learning System"
+    },
+    {
+        "XData Teams": ["University of California, Berkeley"], 
+        "Link": "https://amplab.cs.berkeley.edu/publication/the-potential-dangers-of-causal-consistency-and-an-explicit-solution/", 
+        "Title": "Coflow: A Networking Abstraction for Cluster Applications"
+    },{
+        "XData Teams": ["Royal Caliber"], 
+        "Link": "http://www.royal-caliber.com/", 
+        "Title": "ertexAPI2 - A Vertex-Program API for Large Graph Computations on the GPU"
     }
 ]
+
+
+
+
