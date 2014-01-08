@@ -812,7 +812,7 @@
     "Stats":"gunrock",
     "Characteristics of the Software (what software does)":"Gunrock is a CUDA library for graph primitives that refactors, integrates, and generalizes best-of-class GPU implementations of breadth-first search, connected components, and betweenness centrality into a unified code base useful for future development of high-performance GPU graph primitives.",
     "Xdata Git Location":"tools\\analytics\\SYSTAP",
-    "License":"",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
