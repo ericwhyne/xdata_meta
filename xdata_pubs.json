@@ -534,7 +534,7 @@
         "Title": "Coflow: A Networking Abstraction for Cluster Applications"
     },{
         "XData Teams": ["Royal Caliber"], 
-        "Link": "http://www.royal-caliber.com/", 
+        "Link": "http://www.royal-caliber.com/vertexapi2.pdf", 
         "Title": "ertexAPI2 - A Vertex-Program API for Large Graph Computations on the GPU"
     }
 ]
