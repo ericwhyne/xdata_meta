@@ -159,7 +159,7 @@
     "Stats":"",
     "Characteristics of the Software (what software does)":"LibNMF is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm.",
     "Xdata Git Location":"tools\\analytics\\gatech\\_x000D_\n",
-    "License":"Pending",
+    "License":"ALv2",
     "Language (Primary)":"",
     "Language (Secondary)":"",
     "Category":"Analytics"
@@ -214,7 +214,7 @@
     "Public Code Repo":"https://github.com/trifacta/vega.git",
     "Characteristics of the Software (what software does)":"Vega is a visualization grammar, a declarative format for creating and saving visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.",
     "Xdata Git Location":"tools\\visualizations\\kitware\\vega",
-    "License":"http://opensource.org/licenses/BSD-3-Clause",
+    "License":"BSD",
     "Language (Primary)":"Javascript",
     "Language (Secondary)":"",
     "Category":"Visualization"
@@ -656,7 +656,7 @@
     "Stats":"qcml",
     "Characteristics of the Software (what software does)":"Seamless transition from prototyping to code generation, Enable ease and expressiveness of convex optimization across scales with little change in code",
     "Xdata Git Location":"tools\\analytics\\stanford-b\\qcml",
-    "License":"unmarked",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -668,7 +668,7 @@
     "Stats":"pdos",
     "Characteristics of the Software (what software does)":"Concise algorithm for solving convex problems; solves problems passed from QCML",
     "Xdata Git Location":"tools\\analytics\\stanford-b\\pdos",
-    "License":"unmarked",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -680,7 +680,7 @@
     "Stats":"scs",
     "Characteristics of the Software (what software does)":"Implementation of a solver for general cone programs,including linear, second-order, semidefinite and exponential cones, based on an operator splitting method applied to a self-dual homogeneous embedding. The method and software supports both direct factorization, with factorization caching, and an indirect method, that requires only the operator associated with the problem data and its adjoint. The implementation includes interfaces to CVX, CVXPY, matlab, as well as test routines. This code is described in detail in an associated paper, at http://www.stanford.edu/~boyd/papers/pdos.html (which also links to the code).",
     "Xdata Git Location":"",
-    "License":"unmarked",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -692,7 +692,7 @@
     "Stats":"ecos",
     "Characteristics of the Software (what software does)":"ECOS is a lightweight primal-dual homogeneous interior-point solver for SOCPs, for use in embedded systems as well as a base solver for use in large scale distributed solvers. It is described in the paper at http://www.stanford.edu/~boyd/papers/ecos.html.",
     "Xdata Git Location":"",
-    "License":"unmarked",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
@@ -704,7 +704,7 @@
     "Stats":"ecos",
     "Characteristics of the Software (what software does)":"This library contains sample implementations of various proximal operators in Matlab. These implementations are intended to be pedagogical, not the most performant. This code is associated with the paper Proximal Algorithms by Neal Parikh and Stephen Boyd.",
     "Xdata Git Location":"",
-    "License":"unmarked",
+    "License":"ALv2",
     "Category":"Analytics"
 },
 
@@ -830,18 +830,6 @@
     "Category":"Infrastructure"
 },
   {
-    "XData Team":"The New School",
-    "Software":"",
-    "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Parsons+New+School+Home+Page",
-    "External Link":"N/A",
-    "Public Code Repo":"N/A",
-    "Stats":"",
-    "Characteristics of the Software (what software does)":"",
-    "Xdata Git Location":"N/A",
-    "License":"",
-    "Category":""
-},
-  {
     "XData Team":"University of California, Berkeley",
     "Software":"BDAS",
     "Internal Link":"N/A",
@@ -850,7 +838,7 @@
     "Stats":"",
     "Characteristics of the Software (what software does)":"BDAS, the Berkeley Data Analytics Stack, is an open source software stack that integrates software components being built by the AMPLab to make sense of Big Data.",
     "Xdata Git Location":"N/A",
-    "License":"",
+    "License":"ALv2, BSD",
     "Category":"Infrastructure"
 },
   {
@@ -910,7 +898,7 @@
     "Stats":"tachyon",
     "Characteristics of the Software (what software does)":"Tachyon is a fault tolerant distributed file system enabling reliable file sharing at memory-speed across cluster frameworks, such as Spark and MapReduce. It achieves high performance by leveraging lineage information and using memory aggressively. Tachyon caches working set files in memory, and enables different jobs/queries and frameworks to access cached files at memory speed. Thus, Tachyon avoids going to disk to load datasets that are frequently read.",
     "Xdata Git Location":"N/A",
-    "License":"BSD derivative",
+    "License":"BSD",
     "Category":"Infrastructure"
 },
   {
