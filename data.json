@@ -822,7 +822,7 @@
     "External Link":"https://github.com/draperlab/xdatalogger",
     "Public Code Repo":"https://github.com/draperlab/xdatalogger.git",
     "Stats":"xdatalogger",
-    "Characteristics of the Software (what software does)":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine.  Recording a user’s analytic activities enables estimation of operational context and workflow.  Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool.",
+    "Characteristics of the Software (what software does)":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine.  Recording a user's analytic activities enables estimation of operational context and workflow.  Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool.",
     "Xdata Git Location":"tools\\utilities\\draper",
     "License":"ALv2",
     "Language (Primary)":"Javascript",
