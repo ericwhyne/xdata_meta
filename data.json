@@ -128,7 +128,7 @@
     "External Link":"https://github.com/JohnLangford/vowpal_wabbit",
     "Public Code Repo":"https://github.com/JohnLangford/vowpal_wabbit.git",
     "Stats":"vowpal_wabbit",
-    "Characteristics of the Software (what software does)":"The Vowpal Wabbit (VW) project is a fast out-of-core learning system sponsored by Microsoft Research and (previously) Yahoo! Research. Support is available through the mailing list._x000D_\n_x000D_\nThere are two ways to have a fast learning algorithm: (a) start with a slow algorithm and speed it up, or (b) build an intrinsically fast learning algorithm. This project is about approach (b), and it's reached a state where it may be useful to others as a platform for research and experimentation._x000D_\n_x000D_\nThere are several optimization algorithms available with the baseline being sparse gradient descent (GD) on a loss function (several are available), The code should be easily usable. Its only external dependence is on the boost library, which is often installed by default.",
+    "Characteristics of the Software (what software does)":"The Vowpal Wabbit (VW) project is a fast out-of-core learning system sponsored by Microsoft Research and (previously) Yahoo! Research. Support is available through the mailing list. There are two ways to have a fast learning algorithm: (a) start with a slow algorithm and speed it up, or (b) build an intrinsically fast learning algorithm. This project is about approach (b), and it's reached a state where it may be useful to others as a platform for research and experimentation. There are several optimization algorithms available with the baseline being sparse gradient descent (GD) on a loss function (several are available), The code should be easily usable. Its only external dependence is on the boost library, which is often installed by default.",
     "Xdata Git Location":"tools\\analytics\\dt",
     "License":"BSD",
     "Language (Primary)":"C",
@@ -173,7 +173,7 @@
     "Stats":"",
     "Characteristics of the Software (what software does)":"Matrix algorithms are the foundation for most methods in data analysis, scientific computing, and engineering applications, and Numerical Linear Algebra (NLA) kernels are the key enabling technology for implementing matrix algorithms on different hardware platforms. We investigate and implement NLA kernels based on sketching for distributed computing platforms. Sketching reduces dimensionality through randomization, and includes Johnson-Lindenstrauss random projection (JL); a faster version of JL based on fast transform techniques; sparse techniques that can be applied in time proportional to the number of nonzero matrix entries; and methods for approximating kernel functions and Gram matrices arising in nonlinear statistical modeling problems. We have a library of such sketching techniques, built using MPI in C++ and callable from Python, and are applying the library to regression, low-rank approximation,   and kernel-based machine learning tasks, among other problems. ",
     "Xdata Git Location":"tools\\analytics\\ibm\\skylark",
-    "License":"EPLv10",
+    "License":"ALv2",
     "Category":"Analytics"
 },
   {
