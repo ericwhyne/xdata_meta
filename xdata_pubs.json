@@ -343,22 +343,22 @@
         "Title": "Data in the Aggregate: Discovering Honest Signals and Predictable Patterns within Ultra Large Data Sets"
     }, 
     {
-        "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
+        "XData Teams": ["Stanford University - Hanrahan","Purdue","PNNL"], 
         "Link": "http://ml.stat.purdue.edu/gaby/BigData.ExploreCleanModel.2013.pdf", 
         "Title": "Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data"
     }, 
     {
-        "XData Teams":["Stanford University - Boyd","Purdue","PNNL"], 
+        "XData Teams":["Stanford University - Hanrahan","Purdue","PNNL"], 
         "Link": "http://ml.stat.purdue.edu/gaby/MLandEDAforBigData.pdf", 
         "Title": "EDA and ML - A Perfect Pair for Large-Scale Data Analysis"
     }, 
     {
-        "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
+        "XData Teams": ["Stanford University - Hanrahan","Purdue","PNNL"], 
         "Link": "http://ml.stat.purdue.edu/gaby/RHadoop.PowerGridDataAnalysis.2013.pdf ", 
         "Title": "Power Grid Data Analysis with R and Hadoop"
     }, 
     {
-        "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
+        "XData Teams": ["Stanford University - Hanrahan","Purdue","PNNL"], 
         "Link": "http://ml.stat.purdue.edu/gaby/imMensEuroVis.2013.pdf", 
         "Title": "imMens: Real-time Visual Querying of Big Data"
     }, 
@@ -388,33 +388,33 @@
         "Title": "Code Generation for Embedded Second-Order Cone Programming"
     },
     {
-        "XData Teams": ["Stanford University - Boyd","Purdue","PNNL"], 
+        "XData Teams": ["Stanford University - Hanrahan","Purdue","PNNL"], 
         "Link": "http://ml.stat.purdue.edu/gaby/trelliscope.ldav.2013.pdf", 
         "Title": "Trelliscope: A System for Detailed Visualization in the Deep Analysis of Large Complex Data"
     }, 
 
     {
-        "XData Teams": ["Stanford  "], 
+        "XData Teams": ["Stanford University - Olukotun"], 
         "Link": "http://www.stanford.edu/~shhuang/papers/nifty_www2013.pdf", 
         "Title": "NIFTY: A System for Large Scale Information Flow Tracking and Clustering"
     }, 
     {
-        "XData Teams": ["Stanford  "], 
+        "XData Teams": ["Stanford University - Olukotun"], 
         "Link": "http://ppl.stanford.edu/papers/ecoop13_sujeeth.pdf", 
         "Title": "Composition and Reuse with Compiled Domain-Specific Languages"
     }, 
     {
-        "XData Teams": ["Stanford  "], 
+        "XData Teams": ["Stanford University - Olukotun"], 
         "Link": "http://jmlr.org/papers/v14/bosagh-zadeh13a.html ", 
         "Title": "Dimension Independent Similarity Computation"
     }, 
     {
-        "XData Teams": ["Stanford  "], 
+        "XData Teams": ["Stanford University - Olukotun"], 
         "Link": "http://doi.acm.org/10.1145/2512938.2512955 ", 
         "Title": "On the precision of social and information networks"
     }, 
     {
-        "XData Teams": ["Stanford  "], 
+        "XData Teams": ["Stanford University - Olukotun"], 
         "Link": "http://dl.acm.org/citation.cfm?id=2517220", 
         "Title": "Forge: Generating a High Performance DSL Implementation from a Declarative Specification"
     }, 
@@ -535,7 +535,11 @@
     },{
         "XData Teams": ["Royal Caliber"], 
         "Link": "http://www.royal-caliber.com/vertexapi2.pdf", 
-        "Title": "ertexAPI2 - A Vertex-Program API for Large Graph Computations on the GPU"
+        "Title": "VertexAPI2 - A Vertex-Program API for Large Graph Computations on the GPU"
+    },{
+        "XData Teams":["Draper Laboratory"],
+        "Link": "http://pjim.newschool.edu/issues/2014/01/", 
+        "Title": "Measuring the value of big data exploitation systems:  quantitative, non-subjective metrics with the user as a key component"
     }
 ]
 
