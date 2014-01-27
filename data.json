@@ -183,7 +183,7 @@
     "External Link":"http://ict.usc.edu/",
     "Public Code Repo":"http://code.google.com/p/svnmimir/source/checkout",
     "Stats":"immersive_body-based_interactions",
-    "Characteristics of the Software (what software does)":"* New interface devices and body based interaction techniques to address human-computer interaction challenges posed by Big Data_x000D_\n* Wiggle Interaction Technique: user induced motion to speed visual search.<br/><br/>* Immersive Tablet Based Viewers: low cost 3D virtual reality fly-through's of data sets.<br/><br/>* Multi-touch interfaces: browsing/querying multi-attribute and geospatial data, hosted by SOLR.<br/><br/>* Tablet based visualization controller: eye-free rapid interaction with visualizations.",
+    "Characteristics of the Software (what software does)":"* New interface devices and body based interaction techniques to address human-computer interaction challenges posed by Big Data<br>* Wiggle Interaction Technique: user induced motion to speed visual search.<br>* Immersive Tablet Based Viewers: low cost 3D virtual reality fly-through's of data sets.<br>* Multi-touch interfaces: browsing/querying multi-attribute and geospatial data, hosted by SOLR.<br>* Tablet based visualization controller: eye-free rapid interaction with visualizations.",
     "Xdata Git Location":"tools\\visualizations\\usc-ict",
     "License":"ALv2",
     "Language (Primary)":"",
