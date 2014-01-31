@@ -141,7 +141,7 @@
     "Internal Link":"Pending",
     "External Link":"http://www.gocircuit.org/",
     "Public Code Repo":"https://code.google.com/p/gocircuit/source/checkout",
-    "Stats":"gocircuit",
+    "Stats":"",
     "Characteristics of the Software (what software does)":"Go Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Go Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications.",
     "Xdata Git Location":"",
     "License":"ALv2",
