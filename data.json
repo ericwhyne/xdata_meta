@@ -257,6 +257,18 @@
     "License":"BSD",
     "Category":"Visualization"
 },
+ {
+    "XData Team":"The New School",
+    "Software":"Visualization Widgets",
+    "External Link":"https://github.com/piim/xdata-visualization-widgets",
+    "Public Code Repo":"https://github.com/piim/xdata-visualization-widgets.git",
+    "Stats":"",
+    "Characteristics of the Software (what software does)":"These visualizations were created to demonstrate the type of standalone visualization widgets that might compliment a composite dashboard display for a descision-maker. They are built using D3 and leverage relevant APIs to show the latest available data.",
+    "Xdata Git Location":"tools\\visualizations\\new-school",
+    "License":"ALv2",
+    "Language (Primary)":"Javascript",
+    "Category":"Visualization"
+},
   {
     "XData Team":"Stanford, University of Washington, Kitware, Inc.",
     "Software":"Lyra",
