@@ -846,7 +846,7 @@
     "Software":"Spark",
     "Internal Link":"N/A",
     "External Link":"http://spark.incubator.apache.org/",
-    "Public Code Repo":"https://git-wip-us.apache.org/repos/asf?p=incubator-spark.git",
+    "Public Code Repo":"https://git-wip-us.apache.org/repos/asf/incubator-spark.git",
     "Stats":"spark",
     "Characteristics of the Software (what software does)":"Apache Spark is an open source cluster computing system that aims to make data analytics both fast to run and fast to write. To run programs faster, Spark offers a general execution model that can optimize arbitrary operator graphs, and supports in-memory computing, which lets it query data faster than disk-based engines like Hadoop. To make programming faster, Spark provides clean, concise APIs in Python, Scala and Java. You can also use Spark interactively from the Scala and Python shells to rapidly query big datasets.",
     "Xdata Git Location":"N/A",
